@@ -1,0 +1,9 @@
+React in the frontend
+Cloudfare workers in the backend 
+zod as the validation library, type inferaence for the frontend types
+Typescript as the language
+Prisma as the ORM, with connection pooling
+Postgress as the daabase
+jwt for authentication
+
+
